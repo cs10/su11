@@ -1,0 +1,287 @@
+<!--Week 2-->
+
+<tr>
+<td width="2%" class="calendar">2</td>
+<td class="calendar"><tt>07-04 to 07-08</tt></td>
+<td class="calendar" id="1" title="23">
+<a href="http://www.msnbc.msn.com/id/40077373/ns/technology_and_science-games/">Kinect's Future, a Game Controller in Everything</a>,<br />
+<a href="http://online.wsj.com/article/SB10001424052748704462704575590333558912068.html">Justices Split on Violent Games</a>,<br />
+<a href="http://doi.acm.org/10.1145/1378704.1378719">Designing Games with a Purpose (GWAP)</a>
+</td>
+<td class="calendar" id="1" title="24"><a href="lec/02">3D Graphics</a></td>
+<td class="calendar" id="1" title="25"><a href="http://sage.cs.berkeley.edu/course/view.php?id=13&topic=2">Loops and Variables</a></td>
+
+<td class="calendar" id="1" title="26">
+<a href="lec/03">Video Games</a>
+<br /><b>Pre-course survey deadline!</b>
+</td>
+<td class="calendar" id="1" title="27"><a href="http://sage.cs.berkeley.edu/course/view.php?id=13&topic=3">Random, If, and Input</a></td>
+<td class="calendar" id="1" title="28">Anatomy of a Computer &amp; The Power of Binary</td>
+<td class="calendar" id="1" title="26"><a href="http://sage.cs.berkeley.edu/mod/resource/view.php?id=6050">Homework 1</a><br />due Jan 26</td>
+</tr>
+
+<!--Week 3-->
+
+<tr>
+<td width="2%" class="calendar2">3</td>
+<td class="calendar2"><tt>07-11 to 07-15</tt></td>
+<td class="calendar2"  id="1" title="30">
+<a href="http://doi.acm.org/10.1145/1592761.1592779">Scratch: Programming for All (CACM)</a>, 
+</td>
+<td class="calendar2" id="1" title="31"><a href="lec/04/">Functions</a><br /><b>TA Luke Segars</b></td>
+<td class="calendar2" id="2" title="1"><a href="http://sage.cs.berkeley.edu/course/view.php?id=13&topic=4">BYOB</a></td>
+<td class="calendar2" id="2" title="2"><a href="lec/05/">Programming Paradigms</a></td>
+<td class="calendar2" id="2" title="3"><a href="http://sage.cs.berkeley.edu/course/view.php?id=13&topic=5">Lists I</a></td>
+<td class="calendar2" id="2" title="4">Video Games</td>
+<td class="calendar2" id="2" title="9">Homework 2:<br /><a href="http://sage.cs.berkeley.edu/mod/resource/view.php?id=6079">part 1</a> and <a 
+href="http://sage.cs.berkeley.edu/mod/resource/view.php?id=6080">part 2</a><br />due Feb 2</td>
+</tr>
+
+<!--Week 4-->
+
+<tr>
+<td width="2%" class="calendar">4</td>
+<td class="calendar"><tt>07-18 to 07-22</tt></td>
+<td class="calendar" id="2" title="6"><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter1.pdf">BtB chapter 1</a></td>
+<td class="calendar" id="2" title="7"><a href="lec/06/">Algorithms I</a><br /><b>TA Luke Segars</b></td>
+<td class="calendar" id="2" title="8"><a href="http://sage.cs.berkeley.edu/mod/resource/view.php?id=2422">Lists II</a></td>
+<td class="calendar" id="2" title="9"><a href="lec/07/">Algorithms II</a></td>
+<td class="calendar" id="2" title="10"><a href="http://sage.cs.berkeley.edu/course/view.php?id=13&topic=6">Algorithms</a></td>
+<td class="calendar" id="2" title="11">Open Topic</td>
+<td class="calendar"  id="2" title="9"><a href="http://sage.cs.berkeley.edu/mod/resource/view.php?id=6098">Homework 3</a><br />due Feb 9</td></tr>
+
+<!--Week 5-->
+
+<tr>
+  <td width="2%" class="calendar2">5</td>
+  <td class="calendar2"><tt>07-25 to 07-29</tt></td>
+  <td class="calendar2" id="2" title="13">None</td>
+<!--Week 5-->
+  <td class="exam" id="2" title="14"><a href="http://inst.eecs.berkeley.edu/~cs10/sp11/exams/quest/">Quest</a><br />(<a 
+href="exams/quest/2011SpCS10QuestSolutions.pdf">rubric / solutions</a>)</td>
+  <td class="calendar2" id="2" title="15"><a href="http://sage.cs.berkeley.edu/course/view.php?id=13&topic=8">Algorithmic Complexity</a></td>
+  <td class="calendar2" id="2" title="16"><a href="lec/08">Concurrency</a></td>
+  <td class="calendar2"  id="2" title="17"><a href="http://sage.cs.berkeley.edu/course/view.php?id=13&topic=9">Concurrency</a></td>
+  <td class="calendar2"  id="2" title="18">Lists, Algorithms, <br />and Games</td>
+  <td class="calendar2"  id="2" title="16"><a href="http://sage.cs.berkeley.edu/mod/resource/view.php?id=6121">Homework 4</a><br />due Feb 16</td>
+</tr>
+
+<!--Week 6-->
+
+<tr>
+  <td width="2%" class="calendar">6</td>
+  <td class="calendar"><tt>08-01 to 08-05</tt></td>
+  <td class="calendar"  id="2" title="20"><a href="http://www.gotw.ca/publications/concurrency-ddj.htm">Free Lunch is Over</a>, <a href="http://doi.acm.org/10.1145/1506409.1506425">Spending Moore's dividend (CACM)</a></td>
+  <td class="noClass">No Class, President's Day Holiday</td>
+  <td class="noClass">No Lab</td>
+  <td class="calendar" id="2" title="23"><a href="lec/09">Recursion I</a></td>
+  <td class="calendar" id="2" title="24"><a href="http://sage.cs.berkeley.edu/course/view.php?id=13&topic=10">Recursion I</a></td>
+  <td class="calendar" id="2" title="25">Project Introduction<br />(<a href="http://inst.eecs.berkeley.edu/~cs10/sp11/proj/midterm.html">specification</a>)</td>
+  <td class="calendar" id="2" title="23">Homework 5: <br /><a href="http://sage.cs.berkeley.edu/mod/resource/view.php?id=6165">part 1</a> and <a 
+href="http://sage.cs.berkeley.edu/mod/resource/view.php?id=6166">part 2</a><br />due Feb 23</td>
+</tr>
+
+<!--Week 7-->
+
+<tr>
+<td width="2%" class="calendar2">7</td>
+<td class="calendar2"><tt>08-08 to 08-12</tt></td>
+<td class="calendar2" id="2" title="27"><a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf">BtB Chapter 2</a></td>
+<td class="calendar2" id="2" title="28"><a
+href="lec/10/">Social Implications I</a></td>
+<td class="project" id="3" title="1">Project Work</td>
+<td class="calendar2" id="3" title="2">
+<a href="lec/11">Recursion II</a></td>
+<td class="calendar2" id="3" title="3"><a href="http://sage.cs.berkeley.edu/course/view.php?id=13&topic=12">Recursion II</a></td>
+<td class="calendar2"  id="3" title="4">Recursion</td>
+<td class="calendar2" id="3" title="5">&nbsp;</td>
+</tr>
+
+<!--Week 8-->
+
+<tr>
+<td width="2%" class="calendar">8</td>
+<td class="calendar"><tt>03-07 to 03-11</tt></td>
+<td class="calendar"  id="3" title="6">
+  <a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter3.pdf">BtB Chapter 3</a><br />
+  <a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter4.pdf">BtB Chapter 4</a>
+</td>
+<td class="calendar2" id="3" title="7"><a href="lec/12/">Social Implications II</a></td>
+<td class="project" id="3" title="8">Project Work</td>
+<td class="calendar2" id="3" title="9"><b>TA Glenn Sugden</b>
+<a href="lec/13/">Applications that Changed the World</a></td>
+<td class="calendar" id="3" title="10"><a href="http://sage.cs.berkeley.edu/course/view.php?id=13&topic=14">Recursion III</a></td>
+<td class="calendar" id="3" title="11">Social Implications of Computing</td>
+<td class="calendar" id="3" title="12">&nbsp;</td>
+</tr>
+
+<!--Week 9-->
+
+<tr>
+<td width="2%" class="calendar2">9</td>
+<td class="calendar2"><tt>03-14 to 03-18</tt></td>
+<td class="calendar2" id="3" title="13"><span class="calendar">
+  <a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter5.pdf">BtB Chapter 5</a><br />
+  <a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter6.pdf">BtB Chapter 6</a>
+</span>
+</td>
+<td class="calendar2" id="3" title="14"><strong>Prof. Kathy Yelick</strong> :<br /><a href="lec/15/2010Fa/">Saving the World with Computing</a></td>
+<td class="project" id="3" title="15">Project Work</td>
+<td class="calendar2" id="3" title="16"><b>Raffi Krikorian:</b><br /><a href="lec/14" id="10" title="18">How Twitter Works</a></td>
+<td class="calendar2" id="3" title="17"><a href="http://sage.cs.berkeley.edu/course/view.php?id=13&topic=15">Applications that Changed the World</a></td>
+<td class="calendar2" id="3" title="18">Recursion</td>
+<td class="project" id="3" title="18"><a href="proj/midterm.html">Project</a> <br />due March 18</td>
+</tr>
+
+<!--Week 10-->
+
+<tr>
+<td width="2%" class="calendar">10</td>
+<td class="calendar"><tt>03-21 to 03-25</tt></td>
+<td class="calendar" id="3" title="20"><span class="calendar2">None</span></td>
+<td class="noClass" colspan=5>No Class<br />Spring Break</td>
+<td class="calendar">&nbsp;</td>
+</tr>
+
+<!--Week 11-->
+
+<tr>
+<td width="2%" class="calendar2">11</td>
+<td class="calendar2"><tt>03-28 to 04-01</tt></td>
+<td class="exam" id="3" title="27">
+<p style="font-weight: bold;">No reading</p>
+Midterm Review<br />
+March 27, 6 - 9pm<br />
+Wozniak Lounge (430/438 Soda Hall)<br />
+</td>
+<td class="calendar2" id="3" title="28"><b>Prof. Bj&ouml;rn Hartmann:</b> <a href="lec/16/2010-10-27-CS10-L16-BjoernHartmann-HCI.pdf">HCI</a></td>
+<td class="calendar2" id="3" title="29">Midterm Survey<br>Online Midterm
+<!-- <a href="http://sage.cs.berkeley.edu/course/view.php?id=13&topic=16">Simulations (Sharks & Fish)</a>
+-->
+</td>
+<td class="calendar2" id="3" title="30"><a href="lec/17">Lambda + HOFs I</a><br /></td>
+<td class="exam" id="3" title="31"><a 
+href="http://sage.cs.berkeley.edu/course/view.php?id=13&topic=18">Lambda + 
+HOFs I</a><br /><b>Midterm</b><br />March 31st, 6 - 8pm<br />155 
+Dwinelle<br />
+<a href="http://inst.eecs.berkeley.edu/~cs10/sp11/exams/midterm/2011SpCSS10PaperMidterm.pdf">(exam)</a> 
+<a href="http://inst.eecs.berkeley.edu/~cs10/sp11/exams/midterm/2011SpCS10PaperMidtermAnswers.pdf">(solutions)</a>
+</td>
+<td class="calendar2" id="4" title="1">HOF + Lambda</td>
+
+<td class="calendar2" id="4" title="2">&nbsp;</td>
+</tr>
+
+<!--Week 12-->
+
+<tr>
+<td width="2%" class="calendar">12</td>
+<td class="calendar"><tt>04-04 to 04-08</tt></td>
+<td class="calendar" id="4" title="3">
+   <a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter7.pdf">BtB Chapter 7</a><br />
+   <a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter8.pdf">BtB Chapter 8</a><br />
+   (optional)
+</td>
+<td class="calendar" id="4" title="5"><b>TA Navin Eluthesen</b><br /><a href="http://inst.eecs.berkeley.edu/~cs10/sp11/lec/18/">Lambda + HOFs II</a></td>
+
+<td class="calendar" id="4" title="6"><a href="lec/19/">Distributed Computing</a></td>
+<td class="calendar" id="4" title="7"><a href="http://sage.cs.berkeley.edu/course/view.php?id=13&topic=20">Distributed Computing</a></td>
+<td class="calendar" id="4" title="8">Parallel Processing Paradigms</td>
+<td class="calendar" id="4" title="8">&nbsp;</td>
+</tr>
+
+<!--Week 13-->
+
+<tr>
+<td width="2%" class="calendar2">13</td>
+<td class="calendar2"><tt>04-11 to 04-15</tt></td>
+<td class="calendar2">
+  <a href="http://cacm.acm.org/magazines/2010/4/81493-a-view-of-cloud-computing/fulltext">A Berkeley View of Cloud Computing</a>,   <a href="http://www.hulu.com/watch/23347/nova-the-great-robot-race">The Great Robot Race (VIDEO)</a>, <a href="http://www.youtube.com/watch?v=4gzpd0irP58">The Thinking Machine (VIDEO)</a>, <a href="http://inst.eecs.berkeley.edu/~cs10/fa10/lec/21/ai.txt">Brian Harvey's AI notes</a>,   <a href="http://www.nytimes.com/2010/06/20/magazine/20Computer-t.html">What is IBM's Watson?</a>,    
+  <a href="http://www.nytimes.com/2010/08/09/opinion/09lanier.html">The First Church of Robotics</a>
+  <br />(Thinking Machine optional)
+</td>
+<td class="calendar2" id="4" title="11"><b>Prof. Armando Fox</b> : <a href="lec/20/">Cloud Computing</a></td>
+<td class="project" id="4" title="12">Project Brainstorming, Team Selection, and Work</td>
+<td class="calendar2" id="4" title="13"><a href="lec/21">Artificial Intelligence</a></td>
+<td class="project" id="4" title="14">Project Work</td>
+<td class="calendar2" id="4" title="15">AI</td>
+<td class="paper" id="4" title="16"><a href="http://inst.eecs.berkeley.edu/~cs10/sp11/paper/blog.html">Paper / Blog</a><br />due April 15</td>
+</tr>
+
+<!--Week 14-->
+
+<tr>
+<td width="2%" class="calendar">14</td>
+<td class="calendar"><tt>04-18 to 04-22</tt></td>
+<td class="calendar" id="4" title="10">
+  <a href="http://www.scientificamerican.com/article.cfm?id=computers-solve-checkers-its-a-draw">Computers Solve Checkers -- It's a Draw</a>
+</td>
+<td class="calendar" id="4" title="18">
+<a href="lec/22">Game Theory</a></td>
+<td class="project" id="4" title="19">Project Work</td>
+<td class="calendar" id="4" title="20"><a href="lec/23">Limits of Computing</a></td>
+<td class="project" id="4" title="21">Project Work</td>
+<td class="calendar" id="4" title="22">Open Topic</td>
+<td class="calendar" id="4" title="23">&nbsp;</td>
+</tr>
+
+<!--Week 15-->
+
+<tr>
+<td width="2%" class="calendar2">15</td>
+<td class="calendar2" rowspan="1"><tt>04-25 to 04-29</tt></td>
+<td class="calendar2" id="4" title="24">
+  <a href="http://money.cnn.com/2006/07/26/magazines/fortune/futureoftech_quantum.fortune/index.htm">Quantum Leap</a>,
+  <a href="http://www.bitsbook.com/wp-content/uploads/2008/12/chapter9.pdf">BtB: Conclusion</a><br />
+</td>
+<td class="calendar2" id="4" title="25"><a href="lec/24">Future of Computing</a></td>
+<td class="project" id="4" title="26">Project Work</td>
+<td class="calendar2" id="4" title="27"><a href="lec/26">Summary and Farewell</td>
+
+<td class="calendar2" id="4" title="28">Final Course Survey<br/><strong><a href="exams/final/2011SpUCBerkeleyCS10OnlineFinalExam.pdf">Online Final Exam</a></strong></td>
+<td class="calendar2" id="4" title="29">Final Thoughts</td>
+<td class="calendar2" id="4" title="29">&nbsp;</td>
+</tr>
+
+<!--Week 16-->
+
+<tr>
+  <td width="2%" class="calendar">16</td>
+  <td class="calendar"><tt>05-02 to 05-06</tt></td>
+  <td colspan="1" class="calendar">&nbsp;</td>
+  <td colspan="4" class="noClass">RRR Week</td>
+  <td colspan="1" class="calendar" id="5" title="2">
+  <strong>Final Project Presentations</strong><br />Friday, May 6<br />306 Soda, 11am - 2pm<br />
+  </td>
+  <td class="project" id="5" title="6">
+  <a href="proj/final.html">Final Project</a><br/>due May 6 @ 11am<br>
+  <a href="paper/blog.html">Blog comments</a><br />due May 6 @ 11:59pm<br />
+  </td>
+</tr>
+
+<!--Week 17-->
+
+<tr>
+  <td width="2%" class="calendar2">17</td>
+  <td class="calendar2"><tt>05-09 to 05-13</tt></td>
+  <td class="calendar2" id="5" title="8">
+  [Exam Week]<br />
+  <b>Final Exam Review Session</b><br />
+  Sunday, May 8<br />
+  Wozniak Lounge (430 / 438 Soda), 3 - 6pm<br />
+  <hr />
+  <a href="review/2011-05-08-CS10-Final-Review-Readings.pptx">Reading Slides</a><br />
+  Programming Slides<br />
+  </td>
+  <td class="calendar2">&nbsp;</td>
+  <td class="calendar2">&nbsp;</td>
+  <td class="exam">
+    <a href="exams/final/2011SpUCBerkeleyCS10PaperFinalExam.pdf">Paper Final Exam</a> and <a href="exams/final/2011SpUCBerkeleyCS10PaperFinalExamAnswers.pdf">Solutions</a>
+    Wednesday, May 11<br />
+    277 Cory Hall, 7 - 10pm<br>
+    <a href="exams/final/2011SpUCBerkeleyCS10FinalExamSupplementaryHandout.pdf">Supplementary Handout</a>
+  </td>
+  <td class="calendar2">&nbsp;</td>
+  <td class="calendar2">&nbsp;</td>
+  <td class="calendar2">&nbsp;</td>
+</tr>
